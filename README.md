@@ -15,17 +15,17 @@
 
 ![](./docs/static/index.png)
 
-![](./docs/static/cart.jpg)
+![](./docs/static/cart.png)
 
-![](./docs/static/list.jpg)
+![](./docs/static/list.png)
 
-![](./docs/static/order.jpg)
+![](./docs/static/order.png)
 
-![](./docs/static/user.jpg)
+![](./docs/static/user.png)
 
-![](./docs/static/orderitem.jpg)
+![](./docs/static/orderitem.png)
 
-![](./docs/static/category.jpg)
+![](./docs/static/category.png)
 
 ## 技术栈
 
